@@ -1,0 +1,14 @@
+{
+    "name": "sorinporumboiu/myrepo",
+    "description": "A short test of GIT repositories",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Sorinporumboiu\\Myrepo\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "7.4.30"
+    }
+}
